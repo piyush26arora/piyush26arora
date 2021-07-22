@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
+
 # Hi there :wave:
 I am Piyush Arora, a first year engineering student who is interested in Web Development and Cloud technologies . I encourage the use of technology wherever possible and I think that everything can be advanced with the help of it . I want to share everything I've learned about Web Development and Cloud technology using Medium Blogs , documentations and Youtube . I like to build small applications using the skills that I'm learning along this journey .
 
