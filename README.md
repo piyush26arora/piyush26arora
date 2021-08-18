@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Piyush!](https://piyush26arora.github.io/Portfolio/) 
 
-<a href=" https://www.linkedin.com/in/piyush-arora-681bbb167">
+<a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://github.com/piyush26arora">
