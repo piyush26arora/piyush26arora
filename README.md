@@ -5,16 +5,16 @@
 ## Changing the world, only one pixel at a time.
 
 <a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://github.com/piyush26arora">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:piyush26arora@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://instagram.com/26.piyush">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   
 </div>  
@@ -22,7 +22,7 @@
 <br>
 
 
-I am Piyush Arora, a second year engineering student who is interested in Web Development and Cloud technologies . I encourage the use of technology wherever possible and I think that everything can be advanced with the help of it . I want to share everything I've learned about Web Development and Cloud technology using Medium Blogs , documentations and Youtube . I like to build small applications using the skills that I'm learning along this journey .
+I am Piyush Arora, a second year engineering student who is interested in Web and Cross-Platform App Development and Cloud technologies. I encourage the use of technology wherever possible and I think that everything can be advanced with the help of it. I want to share everything I've learned about Web Development and Cloud technology using Medium Blogs, dev.to, documentations and Youtube. I like to build small applications using the skills that I'm learning along this journey.
 
 ### :telescope: Expertise...
   * Programming Languages : C | C++
@@ -32,7 +32,7 @@ I am Piyush Arora, a second year engineering student who is interested in Web De
   * Tools : Git , GitHub
 
 ### :seedling: I’m currently learning...
-  * JavaScript 
+  * JavaScript and ReactJS
   
   * Data Structures and Algorithms using C++
 
