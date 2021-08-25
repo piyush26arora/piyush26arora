@@ -1,5 +1,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Piyush!](https://piyush26arora.github.io/Portfolio/) 
 
+## Changing the world, only one pixel at a time.
+
 <a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -39,3 +41,11 @@ I am Piyush Arora, a second year engineering student who is interested in Web De
   * LinkedIn: https://www.linkedin.com/in/piyush-arora-681bbb167
   
   * GitHub: https://github.com/piyush26arora/
+
+
+👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! 
+
+
+⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+
+
