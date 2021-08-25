@@ -43,7 +43,7 @@ I am Piyush Arora, a second year engineering student who is interested in Web De
   * GitHub: https://github.com/piyush26arora/
 
 
-👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! 
+👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/piyush26arora/) and always up for quick coding brainstorming sessions! 
 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
