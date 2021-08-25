@@ -5,16 +5,16 @@
 ## Changing the world, only one pixel at a time.
 
 <a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
-  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align = "center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://github.com/piyush26arora">
-  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align = "center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:piyush26arora@gmail.com">
-  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align = "center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://instagram.com/26.piyush">
-  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align = "center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   
 </div>  
@@ -47,7 +47,7 @@ I am Piyush Arora, a second year engineering student who is interested in Web an
   * GitHub: https://github.com/piyush26arora/
 
 
-👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/piyush26arora/) and always up for quick coding brainstorming sessions! 
+👩‍💻 Nowadays, I’m learning Front-end Web Development using React.JS. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/piyush26arora/) and [**HackerRank**](https://www.hackerrank.com/piyush26arora?hr_r=1) and always up for new upcoming technologies! 
 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
