@@ -1,3 +1,5 @@
+<div align = "center">
+
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Piyush!](https://piyush26arora.github.io/Portfolio/) 
 
 ## Changing the world, only one pixel at a time.
@@ -14,6 +16,8 @@
 <a href="https://instagram.com/26.piyush">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+  
+</div>  
 <br>
 <br>
 
