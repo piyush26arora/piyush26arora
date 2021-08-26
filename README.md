@@ -47,6 +47,16 @@ I am Piyush Arora, a second year engineering student who is interested in Web an
   * GitHub: https://github.com/piyush26arora/
 
 
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=piyush26arora&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush26arora&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/piyush26arora/count.svg" />
+</p>
+
 👩‍💻 Nowadays, I’m learning Front-end Web Development using React.JS. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/piyush26arora/) and [**HackerRank**](https://www.hackerrank.com/piyush26arora?hr_r=1) and always up for new upcoming technologies! 
 
 
