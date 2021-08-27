@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Piyush!](https://piyush26arora.github.io/Portfolio/) 
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
 
 ## Changing the world, only one pixel at a time.
 
