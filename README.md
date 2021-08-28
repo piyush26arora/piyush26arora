@@ -2,6 +2,34 @@
 
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
 
+<div align= "left">
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
+
+```javascript
+const piyush = {
+    pronouns: "He" | "Him",
+    age: "19 y.o.",
+    city: "New Delhi,IN",
+    code: ["C", "C++", "JavaScript", "React.js"],
+    askMeAbout: ["web dev", "tech", "data structures", "algorithms"],
+    technologies: {
+        mobileAppInterests: ["React-Native App Development"],
+        frontEnd: {
+            css: ["Bootstrap 4"] ,
+            javascript: ["React"]
+        },
+        databases: ["MySQL"]
+    },
+    currentFocus: "Comptetive Programming using C++ and JavaScript",
+    techInterests: "Cloud Computing",
+    hobbies: ["cycling", "football", "tech", "music"],
+    funFact: "I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow"
+};
+```
+</div>  
+  
+  
 ## Changing the world, only one pixel at a time.
 
 <a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
@@ -31,10 +59,12 @@ I am Piyush Arora, a second year engineering student who is interested in Web an
   
   * Tools : Git , GitHub
 
+
 ### :seedling: I’m currently learning...
   * JavaScript and ReactJS
   
   * Data Structures and Algorithms using C++
+
 
 ### :dancers: I’m looking to collaborate on...
   
@@ -47,19 +77,7 @@ I am Piyush Arora, a second year engineering student who is interested in Web an
   * GitHub: https://github.com/piyush26arora/
 
 
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=piyush26arora&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush26arora&layout=compact&langs_count=8&theme=radical"/>
-</p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/piyush26arora/count.svg" />
-</p>
-
-👩‍💻 Nowadays, I’m learning Front-end Web Development using React.JS. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/piyush26arora/) and [**HackerRank**](https://www.hackerrank.com/piyush26arora?hr_r=1) and always up for new upcoming technologies! 
-
-
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+👩‍💻 Nowadays, I’m learning Front-end Web Development using React.JS. I regularly practice DSA questions on [**HackerRank**](https://www.hackerrank.com/piyush26arora?hr_r=1) and [**LeetCode**](https://leetcode.com/piyush26arora/) and always up for new upcoming technologies! 
 
 
