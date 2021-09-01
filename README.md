@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
+# Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="29px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
 
 <div align= "left">
   
