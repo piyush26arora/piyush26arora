@@ -35,7 +35,10 @@ const piyush = {
 <a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://github.com/piyush26arora">
+<a href="https://www.hackerrank.com/piyush26arora">
+  <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"  />
+</a>
+  <a href="https://github.com/piyush26arora">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:piyush26arora@gmail.com">
