@@ -38,6 +38,9 @@ const piyush = {
 <a href="https://www.hackerrank.com/piyush26arora">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"  />
 </a>
+  <a href="https://leetcode.com/piyush26arora">
+  <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
   <a href="https://github.com/piyush26arora">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
