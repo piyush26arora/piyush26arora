@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="29px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
+# Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="5%">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
 
 <div align= "left">
   
@@ -61,20 +61,22 @@ I am Piyush Arora, a second year engineering student who is interested in Web an
 ### :telescope: Expertise...
   * Programming Languages : C | C++
   
-  * Web Development : HTML5 | CSS3 | Vanilla JS
+  * Web Development : HTML5 | CSS3 | Vanilla JS | React.js
   
-  * Tools : Git , GitHub
+  * Tools : Git , GitHub , Google Cloud Services
 
 
 ### :seedling: I’m currently learning...
-  * JavaScript and ReactJS
+  * Frontend Development using ReactJS
+  
+  * Getting familiar with Node.JS 
   
   * Data Structures and Algorithms using C++
 
 
 ### :dancers: I’m looking to collaborate on...
   
-  * JavaScript based projects
+  * JavaScript and React based projects
 
 ### :mailbox:  How to reach me:....
   
