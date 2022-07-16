@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="5%">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
+# Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="45px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
 
 <div align= "left">
   
@@ -8,21 +8,23 @@
 
 ```javascript
 const piyush = {
-    pronouns: "He" | "Him",
     age: "19 y.o.",
     city: "New Delhi,IN",
-    code: ["C", "C++", "JavaScript", "React.js"],
-    askMeAbout: ["web dev", "tech", "data structures", "algorithms"],
+    pronouns: "He" | "Him",
+    code: ["C", "C++", "JavaScript", "React.js", "Python"],
+    askMeAbout: ["web dev", "tech", "data structures", "algorithms", "ml-algorithms"],
     technologies: {
         mobileAppInterests: ["React-Native App Development"],
         frontEnd: {
             css: ["Bootstrap 4"] ,
             javascript: ["React"]
         },
-        databases: ["MySQL"]
+        databases: ["MySQL"],
+        cloudServices: ["Google Cloud Platform"],
+        machineLearning: ["pandas", "numpy", "matplotlib", "scikit-learn"]
     },
-    currentFocus: "Comptetive Programming using C++ and JavaScript",
-    techInterests: "Cloud Computing",
+    currentFocus: "Machine Learning Algorithms",
+    techInterests: ["Cloud Computing", "Deep Learning"],
     hobbies: ["cycling", "football", "tech", "music"],
     funFact: "I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow"
 };
@@ -30,7 +32,7 @@ const piyush = {
 </div>  
   
   
-## Changing the world, only one pixel at a time.
+## Place your problems in **Priority Queue** and tackle them accordingly.
 
 <a href="https://www.linkedin.com/in/piyush-arora-681bbb167">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
