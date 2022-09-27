@@ -8,13 +8,13 @@
 
 ```javascript
 const piyush = {
-    age: "19 y.o.",
+    age: "20 y.o.",
     city: "New Delhi,IN",
     pronouns: "He" | "Him",
     code: ["C", "C++", "JavaScript", "React.js", "Python"],
     askMeAbout: ["web dev", "tech", "data structures", "algorithms", "ml-algorithms"],
     technologies: {
-        mobileAppInterests: ["React-Native App Development"],
+        interests: ["Neural Networks", "Deep Learning"],
         frontEnd: {
             css: ["Bootstrap 4"] ,
             javascript: ["React"]
