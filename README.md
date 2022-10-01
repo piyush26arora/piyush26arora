@@ -46,6 +46,9 @@ const piyush = {
   <a href="https://github.com/piyush26arora">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.codechef.com/users/bpit_132">
+  <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 <a href="mailto:piyush26arora@gmail.com">
   <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
