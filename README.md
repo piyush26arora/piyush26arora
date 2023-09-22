@@ -1,6 +1,7 @@
 <div align = "center">
 
-# Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="45px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) }
+<b> Hi <img src="https://github.com/piyush26arora/piyush26arora/blob/master/Hi.gif" width="45px">, I'm { [Piyush!](https://piyush26arora.github.io/Portfolio/) } 
+</b></div>
 
 <div align= "left">
   
